@@ -1,4 +1,4 @@
-# 동전 0 SILVER lV
+# 백준 동전 0 SILVER lV
 
 money = []
 n, k = map(int, input().split())
