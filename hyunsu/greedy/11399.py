@@ -1,4 +1,4 @@
-# 백준 ATM
+# 백준 ATM SILVER lV
 
 n = int(input())
 arr = list(map(int, input().split()))

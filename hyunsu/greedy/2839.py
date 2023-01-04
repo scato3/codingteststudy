@@ -1,4 +1,4 @@
-# 백준 설탕배달
+# 백준 설탕배달 SILVER lV
 
 n = int(input())
 cnt = 0
