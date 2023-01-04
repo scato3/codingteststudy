@@ -1,4 +1,5 @@
 # 백준 1931 회의실 배정 SILVER l
+# https://www.acmicpc.net/problem/1931
 
 n = int(input())
 arr = []

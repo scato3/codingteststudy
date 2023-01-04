@@ -1,4 +1,5 @@
 # 백준 설탕배달 SILVER lV
+# https://www.acmicpc.net/problem/2839
 
 n = int(input())
 cnt = 0

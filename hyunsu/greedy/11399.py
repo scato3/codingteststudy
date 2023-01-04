@@ -1,4 +1,5 @@
 # 백준 ATM SILVER lV
+# https://www.acmicpc.net/problem/11399
 
 n = int(input())
 arr = list(map(int, input().split()))
