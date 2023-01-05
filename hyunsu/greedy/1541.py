@@ -1,4 +1,5 @@
 # 백준 1541 잃어버린 괄호 SILVER ll
+# https://www.acmicpc.net/problem/1541
 
 a = input().split('-')
 arr = []

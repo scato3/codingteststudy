@@ -1,4 +1,5 @@
 # 백준 1026 보물 SILVER lV
+# https://www.acmicpc.net/problem/1026
 
 n = int(input())
 
