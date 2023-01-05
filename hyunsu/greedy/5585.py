@@ -1,4 +1,4 @@
-# 백준 5585 BRONZE ll
+# 백준 5585 거스름돈 BRONZE ll
 money = [500, 100, 50, 10, 5, 1]
 n = int(input())
 cnt = 0
