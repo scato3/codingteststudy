@@ -14,7 +14,7 @@ for _ in range(t):
         arr.append((a, b))
     arr.sort(key = lambda x:(x[0])) # 1번으로만 일단 정렬
     cnt = 1
-    hired = arr[0][1]
+    hired = arr[0][1] # 1번 정렬 중 대장(무조건 고용)
     for i in range(1, n):
         if arr[i][1] < hired:
             hired = arr[i][1]
