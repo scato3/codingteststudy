@@ -4,6 +4,7 @@
 n = int(input())
 arr = list(map(int, input().split()))
 arr.sort()
+
 tmp = 1
 
 for i in arr:
