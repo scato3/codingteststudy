@@ -134,6 +134,11 @@ E = 간선의 수 </br>
   - (new_x, new_y)에 방문한 적 없어야 함
   - (new_x, new_y)가 갈 수 있는 길이어야 함(폭탄 없어야 함)
 
+### 재귀 사용 할 때 (필수)
+```pyhon
+import sys
+sys.setrecursionlimit(10000)
+```
 ### input 속도 문제 해결
 
 ```
