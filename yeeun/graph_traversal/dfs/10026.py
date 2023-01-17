@@ -16,11 +16,18 @@ n = int(input())
 rg_group = 0
 nomal_group = 0
 
+#정상인의 그리드
 grid = [
     list(map(str,input()))
     for _ in range(n)
 ]
+#적록색약인의 그리드
+rg_grid = [item[:] for item in grid]
 
+for i in range(n):
+    for j in range(n):
+        if rg_grid[i][j] == 'R':
+            rg_grid[i][j] = 'G'
 
 visited = [[0]*n for _ in range(n)]
 rg_visited = [[0]*n for _ in range(n)]
@@ -31,14 +38,7 @@ dys = [0, -1, 0, 1]
 
 def in_range(x,y):
     return 0<=x and x<n and 0<=y and y<n
-# def can_go(x,y):
-#     if not in_range(x,y):
-#         return False
-#     if visited[x][y] == 1:
-#         return False
-#     if rg_visited[x][y] == 1:
-#         return False
-#     return True
+
 
 #정상인
 def nomal_dfs(x,y):
@@ -51,25 +51,35 @@ def nomal_dfs(x,y):
             if grid[x][y] == grid[nx][ny]:
                 nomal_dfs(nx,ny)
 
-#색맹인
+
+#적록색약
 def rg_dfs(x,y):
     rg_visited[x][y] = 1
+
     for dx, dy in zip(dxs, dys):
         nx = dx + x
         ny = dy + y
         if in_range(nx, ny) and rg_visited[nx][ny] == 0:
-            if (grid[x][y] == 'R') or (grid[x][y] =='G'):
-                if (grid[nx][ny] == 'R') or (grid[nx][ny] =='G'):
-                    # print(grid[x][y])
-                    rg_dfs(nx, ny)
-            else:
-                rg_dfs(nx, ny)
+            if rg_grid[x][y] == rg_grid[nx][ny]:
+                rg_dfs(nx,ny)
+    # rg_visited[x][y] = 1
+    # for dx, dy in zip(dxs, dys):
+    #     nx = dx + x
+    #     ny = dy + y
+    #     if in_range(nx, ny) and rg_visited[nx][ny] == 0:
+    #         if (grid[x][y] == 'R') or (grid[x][y] =='G'):
+    #             if (grid[nx][ny] == 'R') or (grid[nx][ny] =='G'):
+    #                 # print(grid[x][y])
+    #                 rg_dfs(nx, ny)
+    #         else:
+    #             rg_dfs(nx, ny)
 
 
 #정상인이 보는 그룹 수
 for i in range(n):
     for j in range(n):
         if visited[i][j] == 0:
+
             nomal_dfs(i,j)
             nomal_group+=1
 
@@ -79,6 +89,6 @@ for i in range(n):
     for j in range(n):
         if rg_visited[i][j] == 0:
             rg_dfs(i,j)
-            rg_group+=1
+            rg_group += 1
 
 print(f"{nomal_group} {rg_group}")
