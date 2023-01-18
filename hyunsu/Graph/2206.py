@@ -18,7 +18,7 @@ def bfs(x, y, z):
 
     while q:
         x, y, z = q.popleft()
-        if x == n-1 and y == m-1:
+        if x == n - 1 and y == m - 1:
             return visited[x][y][z]
 
         for i in range(4):
@@ -34,5 +34,6 @@ def bfs(x, y, z):
                     q.append((nx, ny, z))
 
     return -1
+
 
 print(bfs(0, 0, 0))

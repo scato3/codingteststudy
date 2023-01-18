@@ -26,7 +26,6 @@ def bfs():
                     graph[nz][nx][ny] = graph[z][x][y] + 1
                     q.append((nz, nx, ny))
 
-
 for i in range(h):
     for j in range(n):
         for k in range(m):
@@ -35,6 +34,7 @@ for i in range(h):
 
 bfs()
 max_result = 0
+
 for i in range(h):
     for j in range(n):
         for k in range(m):
