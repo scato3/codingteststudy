@@ -23,6 +23,8 @@ steps = [
     int(input())
     for _ in range(n)
 ]
+
+
 # 전략
 '''
 
@@ -35,7 +37,7 @@ DP[i] : max(한칸씩 올라 왔을 때 최댓값 , 두칸 올라 왔을 때 최
         max(DP[i-3]+steps[i-1]+steps[i] , DP[i-2]+steps[i])
 '''
 
-if n < 2:
+if n <= 2:
     print(sum(steps))
 else:
     dp=[]
