@@ -15,4 +15,3 @@ def dp(n):
 
 for _ in range(tc):
     n = int(input())
-    
