@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c00ead85-8c38-492d-90fe-e9f04da53c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yeeun/dp/최대증가부분수열/유형전략.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/dp/타일/11727.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/brute_force/1018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/brute_force/1065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/brute_force/2309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/brute_force/2798.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/brute_force/유형전략.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +49,8 @@
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\dp\아이템을 적절히 고르는 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11727">
-    <configuration name="1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1018">
+    <configuration name="1018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp/subproblem을 그대로 합치면 되는 dp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/brute_force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/subproblem을 그대로 합치면 되는 dp/1003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/brute_force/1018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11726" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp/subproblem을 그대로 합치면 되는 dp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/brute_force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/subproblem을 그대로 합치면 되는 dp/11726.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/brute_force/1065.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11727" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2309" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp/타일" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/brute_force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/타일/11727.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/brute_force/2309.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14501" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2798" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp/아이템을 적절히 고르는 문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/brute_force" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/아이템을 적절히 고르는 문제/14501.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/brute_force/2798.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2293" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp/아이템을 적절히 고르는 문제" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/아이템을 적절히 고르는 문제/2293.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11727" />
-        <item itemvalue="Python.11726" />
-        <item itemvalue="Python.1003" />
-        <item itemvalue="Python.2293" />
-        <item itemvalue="Python.14501" />
+        <item itemvalue="Python.1018" />
+        <item itemvalue="Python.1065" />
+        <item itemvalue="Python.2309" />
+        <item itemvalue="Python.2798" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
