@@ -1,13 +1,9 @@
-# 백준 1018 체스판 다시 칠하기 SILVER lV
-# https://www.acmicpc.net/problem/1018
-
 n, m = map(int, input().split())
 arr = []
 cnt = []
 
 for i in range(n):
     arr.append(input())
-
 
 for a in range(n-7):
     for b in range(m-7):
@@ -26,6 +22,7 @@ for a in range(n-7):
                         b_index += 1
                     else:
                         w_index += 1
+
         cnt.append(w_index)
         cnt.append(b_index)
 
