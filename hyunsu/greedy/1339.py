@@ -6,17 +6,18 @@ alpha = [0 for i in range(26)]
 
 for _ in range(n):
     word = input()
+
     for i in range(len(word)):
         alpha[ord(word[i]) - ord('A')] += 10 ** (len(word) - 1 - i)
 
 alpha.sort(reverse=True)
-ans = 0
 num = 9
+ans = 0
 
-for i in range(len(alpha)):
-    if alpha[i] == 0 or num == 0:
+for i in alpha:
+    if i == 0 or num == 0:
         break
-    ans += alpha[i] * num
+    ans += i * num
     num -= 1
 
 print(ans)
