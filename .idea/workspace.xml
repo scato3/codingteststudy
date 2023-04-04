@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c00ead85-8c38-492d-90fe-e9f04da53c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment/이모티콘할인행사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment/택배배달과 수거하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/dp/1학년.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/graph_traversal/bfs/1726.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/greedy/3109.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/Test/개발능력검사/question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/Test/개발능력검사/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/Test/키패드누르기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/입국심사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/graph_traversal/스타트링크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/graph_traversal/카드합체놀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/01기초.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/02기초2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/03내장함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/04_2차원리스트와함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색/이분탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeeun/greedy/연속 부분 합의 최댓값 구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/greedy/연속 부분 합의 최댓값 구하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yeeun/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +59,8 @@
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\dp\아이템을 적절히 고르는 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3109">
-    <configuration name="택배배달과 수거하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.풍선공장">
+    <configuration name="이분탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment/택배배달과 수거하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색/이분탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1학년" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="풍선공장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/dp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/binary_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/dp/1학년.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1726" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="IF문좀대신써줘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/graph_traversal/bfs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/binary_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/graph_traversal/bfs/1726.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="개인정보수집유효기간" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="k번째수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/binary_search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment/개인정보수집유효기간.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/코테준비/01_기초" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/greedy/3109.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/코테준비/01_기초/lambda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3109" />
-        <item itemvalue="Python.1학년" />
-        <item itemvalue="Python.1726" />
-        <item itemvalue="Python.택배배달과 수거하기" />
-        <item itemvalue="Python.개인정보수집유효기간" />
+        <item itemvalue="Python.풍선공장" />
+        <item itemvalue="Python.k번째수" />
+        <item itemvalue="Python.IF문좀대신써줘" />
+        <item itemvalue="Python.이분탐색" />
+        <item itemvalue="Python.lambda" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +206,11 @@
           <url>file://$PROJECT_DIR$/yeeun/Test/2023kakao blind recruitment/개인정보수집유효기간.py</url>
           <line>82</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
