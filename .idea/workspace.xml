@@ -5,23 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c00ead85-8c38-492d-90fe-e9f04da53c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yeeun/Test/개발능력검사/question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/Test/개발능력검사/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/Test/키패드누르기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/입국심사.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/graph_traversal/스타트링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/graph_traversal/카드합체놀이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/01기초.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/02기초2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/03내장함수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/04_2차원리스트와함수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/01_기초/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색/이분탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/samsung/구술탈출2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/samsung/컨베이어벨트위로봇.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/블랙잭.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/사탕게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이브론즈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/직사각형만드는법.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/창고다각형.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeeun/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +51,13 @@
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\graph_traversal\dfs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun" />
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\dp\타일" />
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\dp\아이템을 적절히 고르는 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.풍선공장">
-    <configuration name="이분탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.구술탈출2">
+    <configuration name="일곱난쟁이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +65,137 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/코테준비/04_이분탐색/이분탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="구술탈출2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/samsung" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/samsung/구술탈출2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="색종이2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="사탕게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/사탕게임.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="색종이브론즈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이브론즈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="블랙잭" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/블랙잭.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="색종이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,76 +225,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IF문좀대신써줘" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="코테스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/binary_search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="k번째수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="코테스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/binary_search" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="코테스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/코테준비/01_기초" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/코테준비/01_기초/lambda.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.풍선공장" />
-        <item itemvalue="Python.k번째수" />
-        <item itemvalue="Python.IF문좀대신써줘" />
-        <item itemvalue="Python.이분탐색" />
-        <item itemvalue="Python.lambda" />
+        <item itemvalue="Python.구술탈출2" />
+        <item itemvalue="Python.일곱난쟁이" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +268,11 @@
           <url>file://$PROJECT_DIR$/yeeun/binary_search/IF문좀대신써줘.py</url>
           <line>55</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
