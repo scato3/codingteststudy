@@ -5,19 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c00ead85-8c38-492d-90fe-e9f04da53c18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/yeeun/samsung/구술탈출2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/samsung/컨베이어벨트위로봇.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/블랙잭.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/사탕게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이브론즈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/직사각형만드는법.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/창고다각형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/IM대비/k번째수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/1대1가위바위보.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/N줄덧셈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/간단한N의 약수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/간단한계산기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/거꾸로출력해보아요.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/더블더블.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/몫과나머지출력.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/서랍비밀번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/스탬프찍기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/신문헤드라인.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/알파벳을숫자로변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/연월일달력.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/자릿수더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/중간값찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/최대수구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/큰놈,작은놈,같은놈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/평균값 구하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D1/홀수만 더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D2/백만장자프로젝트.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeeun/ssafy/swea/D4/수 색칠하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/binary_search/k번째수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" beforeDir="false" afterPath="$PROJECT_DIR$/yeeun/binary_search/풍선공장.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +65,8 @@
       <recent name="C:\Users\yen42\Desktop\codingtest\코테스터디\yeeun\dp\아이템을 적절히 고르는 문제" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.구술탈출2">
-    <configuration name="일곱난쟁이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.백만장자프로젝트">
+    <configuration name="백만장자프로젝트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D2/백만장자프로젝트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="구술탈출2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1대1가위바위보" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/samsung" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/samsung/구술탈출2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/1대1가위바위보.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="색종이2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="더블더블" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="코테스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +116,116 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/IM대비" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/IM대비/색종이2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/더블더블.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="거꾸로출력해보아요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/거꾸로출력해보아요.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="간단한N의 약수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/간단한N의 약수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="중간값찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/중간값찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="자릿수더하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/자릿수더하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="연월일달력" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="코테스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yeeun/ssafy/swea/D1/연월일달력.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,8 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.구술탈출2" />
-        <item itemvalue="Python.일곱난쟁이" />
+        <item itemvalue="Python.백만장자프로젝트" />
+        <item itemvalue="Python.거꾸로출력해보아요" />
+        <item itemvalue="Python.더블더블" />
+        <item itemvalue="Python.1대1가위바위보" />
+        <item itemvalue="Python.간단한N의 약수" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +390,11 @@
           <url>file://$PROJECT_DIR$/yeeun/ssafy/IM대비/일곱난쟁이.py</url>
           <line>10</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yeeun/ssafy/swea/D1/연월일달력.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
